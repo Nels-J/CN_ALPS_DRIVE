@@ -1,0 +1,26 @@
+{
+  "name": "cn_alps_drive",
+  "version": "1.0.0",
+  "description": "Js avancé",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nels-J/CN_ALPS_DRIVE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nels-J/CN_ALPS_DRIVE/issues"
+  },
+  "homepage": "https://github.com/Nels-J/CN_ALPS_DRIVE#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {}
+}
